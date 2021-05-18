@@ -1,0 +1,20 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "twiter chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-auth": "^4.1.2",
+    "request": "^2.88.0",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  }
+}
